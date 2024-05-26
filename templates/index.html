@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bot amigao</title>
+</head>
+<body>
+    <h1>Gemini LLM Application</h1>
+    <form method="post">
+        <label for="input">Input:</label>
+        <input type="text" id="input" name="input" required>
+        <button type="submit">Ask the question</button>
+    </form>
+
+    <h2>The Chat History is:</h2>
+    {% if chat_history %}
+        {% for role, text in chat_history %}
+            <p><strong>{{ role }}:</strong> {{ text }}</p>
+        {% endfor %}
+    {% endif %}
+</body>
+</html>
