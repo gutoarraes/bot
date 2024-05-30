@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for botaoamigao2 on 2024-05-26T12:03:06-04:00
+# fly.toml app configuration file generated for botaoamigao3 on 2024-05-30T11:58:12-04:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'botaoamigao2'
+app = 'botaoamigao3'
 primary_region = 'ewr'
 
 [build]
