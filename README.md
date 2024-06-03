@@ -1,4 +1,4 @@
-## Gemini chatbot!
+## Gemini chatbot
 
 ### To do:
 
