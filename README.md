@@ -1,3 +1,7 @@
-## HelloFlask!
+## Gemini chatbot!
 
-This is an example project demonstrating how to deploy a Flask app to Fly.io.
+### To do:
+
+[] Enter key submits message
+[] Improve UI
+[]  collapsible icon
