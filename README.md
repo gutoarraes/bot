@@ -1,6 +1,6 @@
-## Gemini chatbot
+# Gemini chatbot
 
-### To do:
+## To do
 
 - [ ] Enter key submits message
 - [ ] Improve UI
