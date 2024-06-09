@@ -2,6 +2,8 @@
 
 ## To do
 
-- [ ] Enter key submits message
-- [ ] Improve UI
+- [X] Enter key submits message
+- [X] Improve UI
 - [ ] collapsible icon
+- [ ] Add closing option
+- [ ] Readjust size based on screen
